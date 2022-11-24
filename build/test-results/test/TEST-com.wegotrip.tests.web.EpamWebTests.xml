@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wegotrip.tests.web.EpamWebTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-24T13:42:23" hostname="LAPTOP-80STE7PU" time="28.156">
+  <properties/>
+  <testcase name="Main page should has banner" classname="com.wegotrip.tests.web.EpamWebTests" time="12.479"/>
+  <testcase name="Contact page check" classname="com.wegotrip.tests.web.EpamWebTests" time="4.638"/>
+  <testcase name="Clicking on company logo should return to main page" classname="com.wegotrip.tests.web.EpamWebTests" time="6.582"/>
+  <testcase name="Checking the site in Russian" classname="com.wegotrip.tests.web.EpamWebTests" time="4.448"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[нояб. 24, 2022 6:42:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+]]></system-err>
+</testsuite>
